@@ -1,16 +1,20 @@
 
-A4: Final Project Plan <break>
-Margaret Stark <break>
-11/22/208 <break>
-# Presidential Election Voting Tendencies (Center)
-*** Background
-**** Why I am planning to do this analysis?
-Each election I see county voting statistics on turnout and county breakdowns.  I have not seen how or if county political voting patterns are changing.  Here, I will try to find geo-political trends in the US presidential elections since the 2000.  I hope to see how county, state, regional political leanings have changed and then to try an identify historical event that may have influenced that change (i.e. southern border counties being influenced by immigration or large population growth from a tech boom or a rise in unemployment). 
+A4: Final Project Plan <br/>
+Margaret Stark <br/>
+11/22/208 <br/>
+
+## Presidential Election Voting Tendencies (Center)
+
+### Background
+
+#### Why I am planning to do this analysis?
+Each election I see county voting statistics on turnout and county breakdowns.  I have not seen how or if county political voting patterns are changing.  Here, I will try to find geo-political trends in the US presidential elections since the 2000.  I hope to see how county, state, regional political leanings have changed and then to try an identify historical event that may have influenced that change (i.e. southern border counties being influenced by immigration or large population growth from a tech boom or a rise in unemployment). <br/>
 Every four years the same conversations take place about swing states and turnout.
-“It’s not simply a handful of swing states that will decide the 2016 presidential election. The swing voters in the swing counties of the swing states will decide it. And if my calculations are correct, it is perhaps no more than 19 counties in 11 states…” - David Schultz (https://www.minnpost.com/community-voices/2016/08/how-just-few-voters-few-us-counties-will-decide-presidential-election/)
+> “It’s not simply a handful of swing states that will decide the 2016 presidential election. The swing voters in the swing counties of the swing states will decide it. And if my calculations are correct, it is perhaps no more than 19 counties in 11 states…” - [David Schultz](https://www.minnpost.com/community-voices/2016/08/how-just-few-voters-few-us-counties-will-decide-presidential-election/) <br/>
 For this reason, I hope to measure the weight of a vote in a state.   The datasets cover presidential elections from 2000 – 2016, during which electoral votes have been redistributed by population changes.  I would be interested in exploring how the weight of certain regions votes have changed.  In all but 2 states our electoral votes are awarded on a winner takes all system, so I’ll be comparing the number of votes per candidate in a state with the electoral result in order to measure weight.  The distribution of the weights will be a view into the fairness of the electoral vote distribution.
-**** Why it is important?
-While it is true that every voice is not equal in a presidential election it is important to understand preciesely how they differ in order to effectively communicate the information.  Another issue is voter turnout, and while I won’t explore the mechanic of this directly it is impacted by voters not feeling empowered and that their voice matters because not every vote is equal.  By continuing with the current system without trying to engage and change it, we continue to give more power to a few.  This sort of analysis is important for public understanding of the elections.  Things we don’t understand, we won’t fight to change.
+
+#### Why it is important?
+While it is true that every voice is not equal in a presidential election it is important to understand preciesely how they differ in order to effectively communicate the information.  Another issue is voter turnout, and while I won’t explore the mechanic of this directly it is impacted by voters not feeling empowered and that their voice matters because not every vote is equal.  By continuing with the current system without trying to engage and change it, we continue to give more power to a few.  This sort of analysis is important for public understanding of the elections.  Things we don’t understand, we can't fight to change.
 **** Human-centered design considerations?
 I’ve chosen this analysis because it has many human-centered components, from the subject matter to the presentation.  The more transparency the public has on political elections the more informed voters we can become.  The results those votes have impacts on humans worldwide. 
 *** Project Plan
