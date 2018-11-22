@@ -1,8 +1,8 @@
 
-A4: Final Project Plan
-Margaret Stark
-11/22/208
-** (Center) Presidential Election Voting Tendencies (Center)
+A4: Final Project Plan <break>
+Margaret Stark <break>
+11/22/208 <break>
+# Presidential Election Voting Tendencies (Center)
 *** Background
 **** Why I am planning to do this analysis?
 Each election I see county voting statistics on turnout and county breakdowns.  I have not seen how or if county political voting patterns are changing.  Here, I will try to find geo-political trends in the US presidential elections since the 2000.  I hope to see how county, state, regional political leanings have changed and then to try an identify historical event that may have influenced that change (i.e. southern border counties being influenced by immigration or large population growth from a tech boom or a rise in unemployment). 
