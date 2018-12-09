@@ -12,7 +12,7 @@ Simply, no. There is no conclusive pattern in the proportion of third party vote
 * _Question 3: What is there bias in the voting power distribution?_ 
 The symmetry of the distribution between red and blue states doesn't indicate a bias in the distribution of voter power. Though is just show the inequity of voting power amongst states.
 
-More data and analysis is necessary to better answer questions 1 and 2. It's important to note that even though our conclusion to question 3 was that there wasn't a bias in the distribution of power amongs red and blue states doesn't mean there is no bias in the electoral college as this was just one way of exploring potential bias.
+More data and analysis is necessary to better answer questions 1 and 2. It's important to note that even though our conclusion to question 3 was that there wasn't a bias in the distribution of power amongst red and blue states doesn't mean there is no bias in the electoral college as this was just one way of exploring potential bias.
 
 This analysis was done for the University of Washington's DATA 512 final project. More information about the class can be found [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)).
 
