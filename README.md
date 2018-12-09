@@ -1,1 +1,1 @@
-# <center> An Analysis of Voting Polarization and Power
+# An Analysis of Voting Polarization and Power
