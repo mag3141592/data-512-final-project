@@ -66,9 +66,9 @@ Three datasets were used in this analysis.
 
 | Column | Datatype | Description |
 | --- | --- | --- |
-| STATE | Integer | Number to define state. State = 0, could mean country or regional population estimates. |
-| NAME | Sting | State Name|
-| POPESTIMATE2016 | Integer| Population estimated from 2010 Census and population growth rates |
+| State | Integer | Number to define state. State = 0, could mean country or regional population estimates. |
+| Name | Sting | State Name|
+| Popestimate2016 | Integer| Population estimated from 2010 Census and population growth rates |
 
 ## Licensing
 The source datasets are not included in this repository due to the following licensing and copyright concerns.
