@@ -19,7 +19,6 @@ This analysis was done for the University of Washington's DATA 512's final proje
 The [Jupyter Notebook](https://github.com/mag3141592/data-512-final-project/blob/master/final_project_analysis.ipynb) will walk you through the full analysis.
 
 ## Directory
-> data-512-a2/
 
 | Filename | Purpose |
 | --- | --- |
