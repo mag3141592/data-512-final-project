@@ -10,7 +10,7 @@ The purpose of this analysis is to explore the county voting polarization and st
 <br>Simply, no. There is no conclusive pattern in the proportion of third-party votes year over year. Rather the spikes in third party voting indicate a dissatisfaction in the main two-party candidates. <br/>
 
 * _Question 3: Is there bias in the voting power distribution?_ 
-<br>The symmetry of the distribution between red and blue states doesn't indicate a bias in the distribution of voting power. Though is does show the inequity of voting power amongst states.<br/>
+<br>The symmetry of the distribution between red and blue states doesn't indicate a bias in the distribution of voting power. Though it does show the inequity of voting power amongst states.<br/>
 
 More data and analysis is necessary to better answer questions 2 and 3. It's important to note that even though our conclusion to question 3 was that there wasn't a bias in the distribution of power amongst red and blue states doesn't mean there is no bias in the electoral college as this was just one way of exploring potential bias.
 
@@ -49,7 +49,7 @@ Three datasets were used in this analysis.
 | Totalvotes | Integer | Total Votes in County Election |
 | Version | Integer | Dataset Version Number |
 
-2. State electoral vote date from 2000 - 2016, [here](https://www.archives.gov/federal-register/electoral-college/votes/2000_2005.html#2016). The data is listed as tables online, so I've aggregated the data into a more readable format, [here](https://github.com/mag3141592/data-512-final-project/blob/master/data/electoralpres_2000-2016.csv). I ignored votes for Vice Presidents and reduced specific candidates into their corresponding parties.
+2. State electoral vote data from 2000 - 2016, [here](https://www.archives.gov/federal-register/electoral-college/votes/2000_2005.html#2016). The data is listed as tables online, so I've aggregated the data into a more readable format, [here](https://github.com/mag3141592/data-512-final-project/blob/master/data/electoralpres_2000-2016.csv). I ignored votes for Vice Presidents and reduced specific candidates into their corresponding parties.
 
 | Column | Datatype | Description |
 | --- | --- | --- |
@@ -78,4 +78,4 @@ Three datasets were used in this analysis.
 The code in this repository is licensed under a [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Reproducibility
-This work is aimed at being reproducible. In order reproduce all figures in the analysis exactly, use the source data found [here](https://github.com/mag3141592/data-512-a2/blob/master/data).  It is unlikely historical counts should change, however using the sources provided will reduce effort needed to get the electoral data into the desired format.
+This work is aimed at being reproducible. In order to reproduce all figures in the analysis exactly, use the source data found [here](https://github.com/mag3141592/data-512-a2/blob/master/data).  It is unlikely historical counts should change, however using the sources provided will reduce effort needed to get the electoral data into the desired format.
