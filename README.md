@@ -16,7 +16,7 @@ More data and analysis is necessary to better answer questions 1 and 2. It's imp
 
 This analysis was done for the University of Washington's DATA 512 final project. More information about the class can be found [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)).
 
-The [Jupyter Notebook](https://github.com/mag3141592/data-512-a2/blob/master/final_project_analysis.ipynb) will walk you through the full analysis.
+The [Jupyter Notebook](https://github.com/mag3141592/data-512-final-project/blob/master/final_project_analysis.ipynb) will walk you through the full analysis.
 
 ## Directory
 > data-512-a2/
